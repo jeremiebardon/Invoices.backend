@@ -1,0 +1,2 @@
+export const RESET_TOKEN_EXPIRE = 1200000;
+export const CONFIRM_TOKEN_EXPIRE = 1200000;
